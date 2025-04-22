@@ -15,7 +15,13 @@ Ya ak baderi hai
 Koharo - horse   
 Khoro - tea   
 
-## Name of Days 
+## Names of Months    
+
+Maah Gaa Naan    
+
+
+
+## Names of Days 
 
 Dinan Gaa Naan   
 
